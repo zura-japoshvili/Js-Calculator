@@ -1,0 +1,5 @@
+@mixin dsp_prop ($dsp,$jc,$ai){
+    display: $dsp;
+    justify-content: $jc;
+    align-items: $ai;    
+}
